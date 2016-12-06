@@ -1,2 +1,4 @@
 # learntechtrends-repository
-This repository is for learntechtrends
+
+Learntechtrends gives you all software solutions ...
+
